@@ -54,7 +54,8 @@ index.html
 
 ## Coins List
 
-Expamle Screenshot : https://i.ibb.co/kJJybbp/examples-screenshot.jpg  
+Example Screenshot : <a href="https://i.ibb.co/kJJybbp/examples-screenshot.jpg" target="_blank">Show image</a>  
+
  
 - 100X 
 - 10SET 
