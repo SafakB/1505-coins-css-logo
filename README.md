@@ -7,15 +7,15 @@ Ready to use
 
 Upload and Add Cs  
 css/coins.min.css or css/coins.css  
-<link rel="stylesheet" href="css/coins.min.css">  
+<pre><link rel="stylesheet" href="css/coins.min.css"></pre>  
 
 Upload Images  
 coins16.png  
 coins32.png  
 coins48.png  
 
-<span class="ci-32 ci-32-btc"></span>    
-<span class="ci-32 ci-32-eth"></span>     
+<pre><span class="ci-32 ci-32-btc"></span>    
+<span class="ci-32 ci-32-eth"></span>   </pre>    
 
 ## Directory Struct
 css/coins.min.css  
