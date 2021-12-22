@@ -23,11 +23,11 @@ coins48.png
 ```
 ### For 32px
 ```html
-<span class="ci-16 ci-32-eth"></span>    
+<span class="ci-32 ci-32-eth"></span>    
 ```
 ### For 48px
 ```html
-<span class="ci-16 ci-48-eth"></span>    
+<span class="ci-48 ci-48-eth"></span>    
 ```
 
 ### For Empty Icon
