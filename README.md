@@ -41,7 +41,7 @@ or
 ```
 
 
-# Directory Struct
+# File and Directoru Struct
 css/  
 --css/coins.min.css  
 --css/coins.css    
