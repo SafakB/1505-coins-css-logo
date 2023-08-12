@@ -54,7 +54,7 @@ index.html
 
 ## Coins List
 
-Example Screenshot : <a href="https://i.ibb.co/kJJybbp/examples-screenshot.jpg" target="_blank">Show image</a>  
+Example Screenshot : <a href="https://github.com/SafakB/1505-coins-css-logo/blob/main/coin-list.png" target="_blank">Show image</a>  
 
  
 - 100X 
